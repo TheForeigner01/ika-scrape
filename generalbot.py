@@ -6,11 +6,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
-import sys
-import time
-import pytz
-import random
-import re
+import sys,time,pytz,random,re
+
+from secrets import discord_webhook
 
 attacksOnAlliesList = []
 oldAttacksList = []
@@ -112,7 +110,8 @@ driver.add_cookie({"name": "ikariam", "value": ika_cookie})
 generalViewStr = ""
 cityIdStr = "133455"
 embassyPosStr = "9"
-webhook_url = "https://discord.com/api/webhooks/1264720303918026763/COT-4RFFU2_xdb6LZk1q7tUAMKSp_-0gP_BNYhfv2NALPHVrpHNaj0eyjY_DGSxE33g4"
+webhook_url = discord_webhook
+print(webhook_url)
 params = "?wait=true"
 
 data = {
@@ -142,7 +141,7 @@ while run:
             if verbose:
                 print(event)
             if event not in oldAttacksList and generalViewStr not in "| No members of your alliance are being attacked at the moment. | ":
-                requests.post("https://discord.com/api/webhooks/1286092006275158037/3wBws9InBkjQtXLhcJOZng_0qqeLmANeBeuPaJr-NYU5BfEJ0g6ubLWJSFOghOlFeQ_-",
+                requests.post(discord_webhook,
                             json={
                                 "content":"<@508044939863523329> <@396715532101091329> <@380488161538867200>\nAlly under attack!",
                                 "allowed_mentions": {

@@ -1,0 +1,673 @@
+
+Steams (DEF)vs(ATK) Fires
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 1, 1]  - total: 7
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [1, 1, 1, 1, 1, 0, 0]  - total: 5
+
+	!!!REDUCED LOSSES!!!
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 0
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 2
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 4
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 6
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 8
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 10
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 12
+
+	Defender line:
+ [5, 5, 5, 5, 5, 5, 5]
+
+	Attacker line:
+ [12, 12, 12, 12, 12, 12, 12]
+losses: [2, 2, 2, 2, 2, 1, 1]  - total: 12
+--------------------------------

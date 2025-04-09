@@ -1,0 +1,813 @@
+
+Steams (DEF)vs(ATK) Steams
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 0 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 2 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 4 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 6 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 8 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 10 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 12 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 14 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 0
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 2
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 4
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 6
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 8
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 10
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 12
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 14
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+
+--------------------------------
+Attacker bonus damage: 16 	Defender bonus armor: 16
+
+	Defender line:
+ [6, 6, 6, 6, 6, 6]
+
+	Attacker line:
+ [6, 6, 6, 6, 6, 6]
+losses: [3, 3, 3, 3, 3, 3]  - total: 18
+--------------------------------
